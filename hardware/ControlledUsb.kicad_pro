@@ -255,7 +255,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v2.1-Complete"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -679,7 +679,7 @@
       {
         "filename": "ControlledUsb.kicad_sch",
         "name": "ControlledUsb",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "4c38a598-fbac-4a7d-94fb-08842dc4d130"
       }
     ],
     "used_designators": "",
@@ -687,8 +687,8 @@
   },
   "sheets": [
     [
-      "00000000-0000-0000-0000-000000000000",
-      ""
+      "4c38a598-fbac-4a7d-94fb-08842dc4d130",
+      "ControlledUsb"
     ]
   ],
   "text_variables": {},
