@@ -17,3 +17,11 @@ __pycache__/
 *-bak
 *-save.kicad_pcb
 *-save.kicad_sch
+
+# Router & Java Tools
+tools/jre/
+tools/freerouting.jar
+*.dsn
+*.ses
+logs/
+*.svg/
