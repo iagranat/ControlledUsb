@@ -1,0 +1,19 @@
+# PlatformIO & Build Artifacts
+.pio/
+.cache/
+compile_commands.json
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# KiCad temporary & lock files
+*.lck
+.history/
+*-bak
+*-save.kicad_pcb
+*-save.kicad_sch

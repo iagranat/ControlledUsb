@@ -1,0 +1,62 @@
+(export
+	(version "E")
+	(design
+		(source "d:\\Projects\\ControlledUsb\\hardware\\ControlledUsb.kicad_sch")
+		(date "2026-10-01T17:49:04")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title "ControlledUsb Dongle (Monolithic)")
+				(company "ControlledUsb Open Hardware")
+				(rev "v1.0")
+				(date "2026-10-01")
+				(source "ControlledUsb.kicad_sch")
+				(comment
+					(number "1")
+					(value "High-Speed USB 2.0 Host-Controlled Interrupter")
+				)
+				(comment
+					(number "2")
+					(value "Architecture: CH334F Hub + RP2040 MCU + TPS22918 + CH440P")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components)
+	(groups)
+	(variants)
+	(libparts)
+	(libraries)
+	(nets)
+)

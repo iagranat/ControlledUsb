@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ControlledUsb")(type "KiCad")(uri "${KIPRJMOD}/ControlledUsb.kicad_sym")(options "")(descr "Project Custom Symbols"))
+)
