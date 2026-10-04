@@ -11,7 +11,7 @@ WS2812B-2020 (Addressable RGB LED),D1,LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm,C
 Tactile Button (User Button GP26),SW1,Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2,C318884
 PTC Resettable Fuse 2A 6V 1206,F1,Fuse:Fuse_1206_3216Metric,C394336
 USB-A Male Plug SMD+TH,J1,Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal,C77873
-USB-A Female Receptacle RA TH,J2,Connector_USB:USB_A_Molex_67643_Horizontal,C10398
+USB-A Female Receptacle RA TH,J2,Connector_USB:USB_A_Molex_67643_Horizontal,C2344
 27R 1% 0603,"R1, R2",Resistor_SMD:R_0603_1608Metric,C25114
 10k 1% 0603,"R5, R6",Resistor_SMD:R_0603_1608Metric,C25804
 15pF 50V C0G 0603,"C1, C2",Capacitor_SMD:C_0603_1608Metric,C1644
