@@ -51,8 +51,8 @@ def generate_production_package():
 
     # Generate Excellon Drill Files
     drill_writer = pcbnew.EXCELLON_WRITER(board)
-    drill_writer.SetMapFileFormat(pcbnew.PLOT_FORMAT_PDF)
-    drill_writer.SetOptions(False, True, pcbnew.VECTOR2I(0, 0), False)
+    drill_writer.SetFormat(True, pcbnew.EXCELLON_WRITER.DECIMAL_FORMAT)
+    drill_writer.SetOptions(False, False, pcbnew.VECTOR2I(0, 0), True)
     drill_writer.CreateDrillandMapFilesSet(gerber_dir, True, False)
     print("Generated Drill files")
 
